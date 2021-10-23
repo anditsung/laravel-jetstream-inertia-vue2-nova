@@ -33438,7 +33438,7 @@ var render = function() {
                       [
                         _c(
                           "inertia-link",
-                          { attrs: { href: _vm.route("dashboard") } },
+                          { attrs: { href: "/" } },
                           [
                             _c("jet-application-mark", {
                               staticClass: "block h-9 w-auto"
